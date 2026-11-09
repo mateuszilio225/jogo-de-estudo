@@ -2,7 +2,7 @@
 
 Vídeo narrado em português sobre as aulas 6 a 10, baseado no texto fornecido pelo usuário.
 
-**25 minutos · 720p · aproximadamente 32 MB · voz sintética e avatar ilustrado.**
+**20 minutos · 720p · aproximadamente 31 MB · voz neural brasileira aprovada e avatar ilustrado.**
 
 ## Assistir ou baixar
 
@@ -21,4 +21,4 @@ Se o GitHub não reproduzir o vídeo na página, use **Download raw file** ou o 
 
 Para usar o player com navegação por capítulos, baixe esta pasta completa e abra `assistir.html`, mantendo os arquivos juntos.
 
-O vídeo usa slides ilustrados com movimento e narração sintética. Não é uma filmagem de uma pessoa real. As legendas têm sincronização aproximada.
+Esta é a nova versão, com a voz neural brasileira aprovada na amostra. O vídeo usa slides ilustrados com movimento e narração neural. Não é uma filmagem de uma pessoa real. As legendas têm sincronização aproximada.

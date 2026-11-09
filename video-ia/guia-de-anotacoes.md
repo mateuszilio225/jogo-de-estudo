@@ -1,6 +1,6 @@
 # Guia de anotações — Da pizza ao agente de IA
 
-Material baseado no texto das aulas 6 a 10 enviado pelo usuário. Narração sintética. O vídeo explica os conceitos e fluxos, mas não substitui executar os projetos das aulas. Tempos de legendas aproximados.
+Material baseado no texto das aulas 6 a 10 enviado pelo usuário. Voz neural brasileira aprovada na amostra. O vídeo explica os conceitos e fluxos, mas não substitui executar os projetos das aulas. Tempos de legendas aproximados.
 
 ## Aula 6 — O universo da IA
 - IA → machine learning → deep learning → IA generativa: qual diferença?

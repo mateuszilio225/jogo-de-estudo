@@ -1,0 +1,22 @@
+DA PIZZA AO AGENTE DE IA — VERSÃO COM VOZ NEURAL
+
+Duração prevista: 19 minutos e 54 segundos.
+Narração neural brasileira: mesmo modelo e configuração da amostra aprovada.
+44 cenas, aulas 6 a 10, diagramas, perguntas de revisão e pausas para anotações.
+
+COMO ASSISTIR
+Abra aula-completa-ia.mp4 em um navegador ou reprodutor compatível.
+Para usar os botões de capítulos, abra assistir.html mantendo esta pasta completa.
+Se o navegador restringir legendas em arquivos locais, carregue legendas.srt no reprodutor.
+Os tempos são aproximados dentro de cada frase.
+
+MATERIAL DE ESTUDO
+roteiro-completo.txt: texto da narração.
+guia-de-anotacoes.md: perguntas e pontos de revisão.
+capitulos.txt: tempos de início de cada capítulo.
+
+Vídeo com avatar ilustrado e voz sintética neural, sem filmagem de pessoa real.
+Baseado no texto das aulas fornecido na conversa. Conceitos e fluxos são explicados;
+a execução dos projetos continua sendo uma atividade prática separada.
+
+Esta versão substitui a narração anterior no repositório do GitHub.
